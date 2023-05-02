@@ -1,3 +1,3 @@
-- Jan Cuypers
-- Joppe Van Loon
+- Jan Cuypers (StudentAccount456)
+- Joppe Van Loon (Joppe-vL)
 - Project didn't get finished in time, So we failed at the assignment.
